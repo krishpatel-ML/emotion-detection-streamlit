@@ -44,7 +44,7 @@ emotion-detection-streamlit/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/emotion-detection-streamlit.git
+git clone https://github.com/krishpatel-ML/emotion-detection-streamlit
 cd emotion-detection-streamlit
 
 2. Install dependencies
